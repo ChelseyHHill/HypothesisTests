@@ -1,5 +1,5 @@
 library(shiny)
-
+#l
 # 1. UI Section (Paste content from your old ui.R here)
 ui <- fluidPage(navbarPage("One-Sample Hypothesis Tests",
                            #tabPanel("Instructions",
